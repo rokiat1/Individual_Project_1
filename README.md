@@ -1,5 +1,5 @@
 # Individual_Project_1
-# 🎓 SchoolsDB – School Management Database System
+# SchoolsDB
 
 ## 📘 Overview
 The **SchoolsDB** project is a relational database system designed to manage and organize key information within a school environment. It handles data about **departments, teachers, students, courses, classrooms, schedules, and enrollments**, providing a structured way to store and connect relationships among them.
